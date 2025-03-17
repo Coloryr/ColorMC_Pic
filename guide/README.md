@@ -8,6 +8,10 @@
 
 [bilibili视频](https://www.bilibili.com/video/BV1SuBFYnEy6)
 
+## 教程
+
+[联机功能使用教程](../read1/README.md)
+
 ## 目录
 
 - [获取启动器](#获取启动器)
